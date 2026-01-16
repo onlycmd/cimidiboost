@@ -12,7 +12,7 @@ Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indir
 
 | Sürüm | Dosya Tipi | Açıklama | İndir |
 | :--- | :---: | :--- | :---: |
-| **Cimidi v6 (Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidiboost.bat) |
+| **Cimidi boost(Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidiboost.bat) |
 | **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidiboost.ps1) |
 | **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidifix.bat) |
 
@@ -20,7 +20,7 @@ Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indir
 
 ## 📸 Ekran Görüntüleri (Screenshots)
 
-**Cimidi v6 Komuta Merkezi:**
+**Cimidi Komuta Merkezi:**
 <div align="center">
   <img src="https://i.hizliresim.com/3i4ylwi.png" alt="Cimidi Menü Önizleme" width="700">
   <br>
