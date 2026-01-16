@@ -4,9 +4,38 @@
 
 Bu proje, bilgisayarınızın potansiyelini ortaya çıkarmak, gecikmeyi (input lag) düşürmek ve daha stabil bir oyun deneyimi sunmak için tasarlanmıştır.
 
-## 📂 Dosyalar ve Sürümler
+---
 
-Bu depoda üç temel dosya bulunmaktadır:
+## 📥 Hızlı İndirme Linkleri (Direct Downloads)
+
+Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indirebilirsiniz:
+
+| Sürüm | Dosya Tipi | Açıklama | İndir |
+| :--- | :---: | :--- | :---: |
+| **Cimidi v6 (Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/Cimidi_v6.bat) |
+| **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/Cimidi_v6_Final.ps1) |
+| **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidifix.bat) |
+
+---
+
+## 📸 Ekran Görüntüleri (Screenshots)
+
+**Cimidi v6 Komuta Merkezi:**
+<div align="center">
+  <img src="https://i.hizliresim.com/3i4ylwi.png" alt="Cimidi Menü Önizleme" width="700">
+  <br>
+  <em>Sistem bilgilerini otomatik algılar ve seçenekleri menü halinde sunar.</em>
+</div>
+
+<div align="center">
+  <img src="https://i.hizliresim.com/qvahcro.png" alt="Cimidi fix önizleme" width="700">
+  <br>
+  <em>Yaptığınız ayarları varsayılan ayara çevirir.</em>
+</div>
+
+---
+
+## 📂 Hangi Dosyayı Seçmeliyim?
 
 ### 1. ⚡ Batch (CMD) Sürümü (`Cimidi_v6.bat`) - *Önerilen*
 Bu sürüm, efsanevi Windows Komut İstemi (CMD) altyapısını kullanır.
@@ -20,7 +49,7 @@ Bu sürüm, Windows'un modern komut satırı olan PowerShell üzerine kuruludur.
 - **Kullanımı:** Sağ tık -> *PowerShell ile Çalıştır* (Run with PowerShell).
 
 ### 3. 🚑 Acil Durum Düzeltici (`cimidifix.bat`)
-Optimizasyon sonrası sorun yaşarsanız sistemi eski haline döndüren kurtarıcı dosyadır. Detaylar aşağıdadır.
+Optimizasyon sonrası sorun yaşarsanız sistemi eski haline döndüren kurtarıcı dosyadır.
 
 ---
 
@@ -40,29 +69,14 @@ Bu araç aşağıdaki optimizasyonları otomatik veya seçmeli olarak uygular:
 
 ## 🆘 Acil Durum / Sorun Giderme (Troubleshooting)
 
-Her bilgisayarın donanımı ve tepkisi farklıdır. Eğer optimizasyonları yaptıktan sonra:
-* 📉 FPS düşüşü yaşarsanız (Örn: Registry ayarları bazı sistemlerde darboğaz yapabilir),
-* 🌡️ Bilgisayar çok ısınırsa,
-* ⚠️ Sistemde takılmalar olursa;
-
-Korkmanıza gerek yok! **`cimidifix.bat`** dosyası bunun için var.
+Her bilgisayarın donanımı ve tepkisi farklıdır. Eğer optimizasyonları yaptıktan sonra FPS düşüşü, ısınma veya takılma yaşarsanız:
 
 **Nasıl Geri Alırım?**
-1. Klasördeki **`cimidifix.bat`** dosyasına sağ tıklayın.
+1. İndirdiğiniz **`cimidifix.bat`** dosyasına sağ tıklayın.
 2. **Yönetici Olarak Çalıştır** deyin.
 3. İşlem bitince bilgisayarınızı **yeniden başlatın**.
 
 Bu işlem; yapılan Registry değişikliklerini siler, güç planını dengeliye alır ve sistemi varsayılan ayarlarına geri döndürür.
-
----
-
-## 🚀 Kurulum ve Kullanım
-
-1.  Bu repoyu indirin veya **Code** butonuna basıp **Download ZIP** deyin.
-2.  Klasörü masaüstüne çıkartın.
-3.  İhtiyacınıza uygun olan sürümü (`.bat` veya `.ps1`) yönetici olarak çalıştırın.
-4.  Açılan menüden yapmak istediğiniz işlemi seçin (Tavsiye: `99` yazıp Enter'a basarak tam bakım yapın).
-5.  İşlem bitince bilgisayarınızı **yeniden başlatın**.
 
 ---
 
@@ -73,4 +87,4 @@ Bu yazılım Windows Kayıt Defteri (Registry) ve sistem ayarlarında değişikl
 * Bu scripti kullanmak tamamen kullanıcının sorumluluğundadır.
 
 ---
-*Developed by cimidi*
+*Developed by Cimidi AI & [Senin Adın/Kullanıcı Adın]*
