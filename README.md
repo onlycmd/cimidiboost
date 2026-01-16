@@ -12,9 +12,9 @@ Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indir
 
 | Sürüm | Dosya Tipi | Açıklama | İndir |
 | :--- | :---: | :--- | :---: |
-| **Cimidi boost(Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidiboost.bat) |
-| **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidiboost.ps1) |
-| **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](https://github.com/[onlycmd]/[cimidiboost]/raw/main/cimidifix.bat) |
+| **Cimidi Boost (Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidiboost.bat) |
+| **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidiboost.ps1) |
+| **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidifix.bat) |
 
 ---
 
@@ -27,6 +27,7 @@ Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indir
   <em>Sistem bilgilerini otomatik algılar ve seçenekleri menü halinde sunar.</em>
 </div>
 
+**Acil Durum (Fix) Ekranı:**
 <div align="center">
   <img src="https://i.hizliresim.com/qvahcro.png" alt="Cimidi fix önizleme" width="700">
   <br>
@@ -37,13 +38,13 @@ Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indir
 
 ## 📂 Hangi Dosyayı Seçmeliyim?
 
-### 1. ⚡ Batch (CMD) Sürümü (`Cimidi_v6.bat`) - *Önerilen*
+### 1. ⚡ Batch (CMD) Sürümü (`cimidiboost.bat`) - *Önerilen*
 Bu sürüm, efsanevi Windows Komut İstemi (CMD) altyapısını kullanır.
 - **Kimler için?** "Kodla uğraşamam, tıkla çalışsın" diyenler ve kurulumla uğraşmak istemeyenler için.
 - **Özellikleri:** Kurulum gerektirmez, menülüdür, hızlı ve basittir.
 - **Kullanımı:** Sağ tık -> *Yönetici Olarak Çalıştır* (Run as Administrator).
 
-### 2. 🛠️ PowerShell Sürümü (`Cimidi_v6_Final.ps1`)
+### 2. 🛠️ PowerShell Sürümü (`cimidiboost.ps1`)
 Bu sürüm, Windows'un modern komut satırı olan PowerShell üzerine kuruludur.
 - **Kimler için?** Teknolojiyle arası iyi olan, detaylı çıktı ve donanım bilgisi görmek isteyenler için.
 - **Kullanımı:** Sağ tık -> *PowerShell ile Çalıştır* (Run with PowerShell).
