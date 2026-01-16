@@ -87,4 +87,4 @@ Bu yazılım Windows Kayıt Defteri (Registry) ve sistem ayarlarında değişikl
 * Bu scripti kullanmak tamamen kullanıcının sorumluluğundadır.
 
 ---
-*Developed by Cimidi AI & [Senin Adın/Kullanıcı Adın]*
+*Developed by cimidi*
