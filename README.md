@@ -5,16 +5,11 @@
 Bu proje, bilgisayarınızın potansiyelini ortaya çıkarmak, gecikmeyi (input lag) düşürmek ve daha stabil bir oyun deneyimi sunmak için tasarlanmıştır.
 
 ---
-
-## 📥 Hızlı İndirme Linkleri (Direct Downloads)
-
-Dosyalar arasında kaybolmadan ihtiyacınız olan sürümü buradan direkt indirebilirsiniz:
-
 | Sürüm | Dosya Tipi | Açıklama | İndir |
 | :--- | :---: | :--- | :---: |
-| **Cimidi Boost (Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidiboost.bat) |
-| **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidiboost.ps1) |
-| **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](https://github.com/onlycmd/cimidiboost/raw/main/cimidifix.bat) |
+| **Cimidi Boost (Önerilen)** | `.bat` | Kurulumsuz, hızlı, herkes için. | [📥 Tıkla İndir](https://raw.githubusercontent.com/onlycmd/cimidiboost/refs/heads/tools/cimidiboost.bat) |
+| **Cimidi PowerShell** | `.ps1` | Detaylı bilgi ekranlı, ileri düzey. | [📥 Tıkla İndir](BURAYA_PS1_DOSYASININ_RAW_LINKINI_YAPISTIR) |
+| **Acil Durum Kiti** | `.bat` | Sorun çıkarsa sistemi geri alır. | [🚑 Tıkla İndir](BURAYA_FIX_DOSYASININ_RAW_LINKINI_YAPISTIR) |
 
 ---
 
