@@ -11,7 +11,7 @@ Programı kullanmak için aşağıdaki paketi indirin. İçinde tüm sürümler 
 
 | Paket | İçerik | İndir |
 | :--- | :--- | :---: |
-| **Cimidi Full Paket** | `.bat`, `.ps1` ve `fix` dosyaları (Hepsi bir arada) | [📦 **PAKETİ İNDİR (ZIP)**](https://github.com/onlycmd/cimidiboost/raw/main/CimidiPack.zip) |
+| **Cimidi Full Paket** | `.bat`, `.ps1` ve `fix` dosyaları (Hepsi bir arada) | [📦 **PAKETİ İNDİR (ZIP)**](https://github.com/onlycmd/cimidiboost/raw/refs/heads/tools/CimidiPack.zip) |
 
 *(İndirdikten sonra klasöre sağ tıklayıp "Tümünü Ayıkla" demeyi unutmayın)*
 
