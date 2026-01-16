@@ -67,16 +67,18 @@ Bu araç aşağıdaki optimizasyonları otomatik veya seçmeli olarak uygular:
 
 ---
 
-## 🆘 Acil Durum / Sorun Giderme (Troubleshooting)
+## 🆘 Acil Durum / Fabrika Ayarlarına Dönüş (Fix Ultra)
 
-Her bilgisayarın donanımı ve tepkisi farklıdır. Eğer optimizasyonları yaptıktan sonra FPS düşüşü, ısınma veya takılma yaşarsanız:
+Eğer optimizasyon sonrası bilgisayarda takılma, donma veya FPS düşüşü yaşarsanız; **`cimidifix.bat`** dosyasını kullanın.
 
-**Nasıl Geri Alırım?**
-1. İndirdiğiniz **`cimidifix.bat`** dosyasına sağ tıklayın.
-2. **Yönetici Olarak Çalıştır** deyin.
-3. İşlem bitince bilgisayarınızı **yeniden başlatın**.
+**Bu dosya ne yapar?**
+* 🛑 **Tüm Optimizasyonları Siler:** Windows'u orijinal haline döndürür.
+* 🎮 **GPU Ayarlarını Sıfırlar:** NVIDIA veya AMD kartınızın ayarlarını varsayılana (Default) çeker.
+* ⚡ **Hizmetleri Açar:** Kapatılan arka plan hizmetlerini geri yükler.
 
-Bu işlem; yapılan Registry değişikliklerini siler, güç planını dengeliye alır ve sistemi varsayılan ayarlarına geri döndürür.
+**Kullanım:**
+1. `cimidifix.bat` dosyasına sağ tıklayıp **Yönetici Olarak Çalıştır** deyin.
+2. İşlem bitince bilgisayarı **yeniden başlatın**.
 
 ---
 
